@@ -1,18 +1,27 @@
-## Getting Started
+## DATIOR
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Estudante de Analise e Desenvolvimento de sistemas, Conhecimento em programação com JAVA criação de prototipo com FIGMA além saber MySQL, também sei um pouco de diagramas da UML.
 
-## Folder Structure
+## MEUS CONHECIMENTOS: 
 
-The workspace contains two folders by default, where:
+JAVA:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `Lógica básica`: estrutura Sequencial, Condicional, Repetitivas, tratamento de Exceções, Data-Hora; 
+- `POO`: Classes: "Construtores, Encapsulamento, Metodos, Generics" || Herança, Polimorfismo, Enumeração, Composição, Interfaces;
+- `Memória`: Arrays, Listas;
+- `Git`: Nivelamento sobre Git e Github;
+- `Arquivos`: FileReader, BufferdRead, Manipulas Pastas;
+- `Programação Funcional`: Interface Funcional, Stream, Pipeline;
+- `JDBC`: Dados: Recuperar, Inserir, Atualizar, Deletar, Transações || Padrão de projeto DAO;
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+> Se quiser saber mais apenas me seguir no Linkedin e ou Instagram;
 
-## Dependency Management
+## CONTATO:
+`LINKEDIN`: (https://www.linkedin.com/in/leonardo-weder-veiga-duca-a1bb531b6/).
+`LINKEDIN`: (https://www.instagram.com/datior.leonardo/).
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+###### OBRIGADO!
+
+# D4T10R
